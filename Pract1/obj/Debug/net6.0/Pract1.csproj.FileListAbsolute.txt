@@ -1,0 +1,15 @@
+C:\Users\Micro\source\repos\Pract1\obj\Debug\net6.0\Pract1.csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\Pract1\obj\Debug\net6.0\Pract1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\Pract1\obj\Debug\net6.0\Pract1.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\Pract1\obj\Debug\net6.0\Pract1.AssemblyInfo.cs
+C:\Users\Micro\source\repos\Pract1\obj\Debug\net6.0\Pract1.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Pract1\bin\Debug\net6.0\Pract1.exe
+C:\Users\Micro\source\repos\Pract1\bin\Debug\net6.0\Pract1.deps.json
+C:\Users\Micro\source\repos\Pract1\bin\Debug\net6.0\Pract1.runtimeconfig.json
+C:\Users\Micro\source\repos\Pract1\bin\Debug\net6.0\Pract1.dll
+C:\Users\Micro\source\repos\Pract1\bin\Debug\net6.0\Pract1.pdb
+C:\Users\Micro\source\repos\Pract1\obj\Debug\net6.0\Pract1.dll
+C:\Users\Micro\source\repos\Pract1\obj\Debug\net6.0\refint\Pract1.dll
+C:\Users\Micro\source\repos\Pract1\obj\Debug\net6.0\Pract1.pdb
+C:\Users\Micro\source\repos\Pract1\obj\Debug\net6.0\Pract1.genruntimeconfig.cache
+C:\Users\Micro\source\repos\Pract1\obj\Debug\net6.0\ref\Pract1.dll
